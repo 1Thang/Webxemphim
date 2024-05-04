@@ -1,0 +1,44 @@
+.title{
+    color: white;
+    font-family: 'Arial', sans-serif;
+    font-size: 25px;
+}
+.phimdangchieu{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.phimle
+{
+    width: 23%; 
+    text-align: center;
+   
+}
+
+.phimle img 
+{
+    width: 100%;
+    height: auto;
+}
+
+.phimle a 
+{
+    color: white;
+    text-decoration: none;
+}
+.datve{
+    background: yellow;
+    width: 150px;
+    color: black;
+}
+.datve:hover{
+    background:linear-gradient(to right,  rgb(56, 42, 86),  rgb(96, 5, 232)) ;
+}
+.trailer{
+    width: 100%;
+    width: 150px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}

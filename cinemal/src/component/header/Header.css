@@ -1,0 +1,63 @@
+.backgrou{
+    background-color: rgb(26, 26, 40);
+    
+}
+.my-flex-container {
+    display: flex;
+    text-align:center;
+    align-items: center;
+    width: 100%;
+    position: relative;
+}
+.my-search-container{
+    height: 30px;
+}
+.datve{
+    height: 30px;
+    width: 12%;
+    background:linear-gradient(to right,  rgb(188, 1, 235),  rgb(96, 5, 232)) ;
+    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-left: 10%;
+    color: aliceblue;
+    text-decoration: none;
+    font-size:  20px;
+   
+}
+.my-search-container{
+    /* margin-left: 40%;
+    padding-right: 20px; */
+    position: absolute;
+    right: 0;
+    }
+.dangnhap{
+    color: aliceblue;
+    text-decoration: none;
+    font-size:20px;
+   
+}
+.inline-divs a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+    width: 100px;
+    padding-right: 30px;
+}
+.my-topnav{
+    display: flex;
+    text-align:center;
+    align-items: center;
+    width: 100%;
+}
+.Km{
+    position: absolute;
+    right: 0;
+}
+.inline-divs {
+    display: flex;
+    flex-direction: row;
+}
+
